@@ -1,0 +1,24 @@
+/* Global */
+body {
+    background-color: 	#fbf7f5;
+}
+
+.carousel-item img {
+    min-height: 100vh;
+    min-width: 100vh;
+}
+.page-heading {
+    padding: 1em;
+    text-align: center;
+}
+
+/* About me */
+.card {
+    background-color: 	#fbf7f5;
+    margin: 0 2.5em;
+}
+.card-img-top {
+    width: 60%;
+    padding: 2.5em;
+    margin: 0 auto;
+}
