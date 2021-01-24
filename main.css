@@ -13,12 +13,21 @@ body {
 }
 
 /* About me */
-.card {
+.about {
     background-color: 	#fbf7f5;
     margin: 0 2.5em;
 }
-.card-img-top {
+.about-top {
     width: 60%;
     padding: 2.5em;
     margin: 0 auto;
+}
+
+/* Make me */
+.make-main {
+    margin: 0 2em;
+}
+.image-wrapper {
+    height: 15em;
+    overflow: hidden;
 }
