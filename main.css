@@ -3,10 +3,11 @@ body {
     background-color: 	#fbf7f5;
 }
 
-.carousel-item img {
-    min-height: 100vh;
-    min-width: 100vh;
+/* Index */
+.carousel-item {
+    width: 100%;
 }
+
 .page-heading {
     padding: 1em;
     text-align: center;
