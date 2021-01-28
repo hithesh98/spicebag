@@ -11,6 +11,7 @@ body {
 .page-heading {
     padding: 1em;
     text-align: center;
+    margin: 0 auto;
 }
 
 /* About me */
