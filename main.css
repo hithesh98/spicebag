@@ -33,3 +33,6 @@ body {
     height: 15em;
     overflow: hidden;
 }
+.instructions-wrapper {
+    margin-top: 2em;
+}
