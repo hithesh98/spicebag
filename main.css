@@ -2,6 +2,12 @@
 body {
     background-color: 	#fbf7f5;
 }
+.headings {
+    text-align: center;
+    margin-top: 0.75em;
+    margin-bottom: 0.5em;
+}
+
 
 
 /* Index */
@@ -38,4 +44,14 @@ body {
 }
 .instructions-wrapper {
     margin-top: 2em;
+}
+
+/* Dublin */
+.restaurant-cards{
+    height: 25vh;
+    overflow: hidden;
+    margin: 1em 2em ;
+    background-image: url(https://1.bp.blogspot.com/-v_rYbrhz7yI/WVFrbizTMiI/AAAAAAAApYA/MmmY_u_dOjouXbQPNrsKoKJP2ik0E3j5wCKgBGAs/s1600/P6231256.jpg);
+    background-size: cover;
+    background-position: 0 45%;
 }
