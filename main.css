@@ -47,11 +47,23 @@ body {
 }
 
 /* Dublin */
-.restaurant-cards{
+.restaurant-cards {
     height: 25vh;
     overflow: hidden;
-    margin: 1em 2em ;
-    background-image: url(https://1.bp.blogspot.com/-v_rYbrhz7yI/WVFrbizTMiI/AAAAAAAApYA/MmmY_u_dOjouXbQPNrsKoKJP2ik0E3j5wCKgBGAs/s1600/P6231256.jpg);
+    margin: 4em 3em ;
     background-size: cover;
+}
+.token {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://1.bp.blogspot.com/-v_rYbrhz7yI/WVFrbizTMiI/AAAAAAAApYA/MmmY_u_dOjouXbQPNrsKoKJP2ik0E3j5wCKgBGAs/s1600/P6231256.jpg);
     background-position: 0 45%;
+
+}
+.lin-kee {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://www.linkee.ie/images/linkee-chinese-takeaway-slider-bg-1.jpg);
+    background-position: 0 10%;
+}
+.xian    {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://rs-menus-api.roocdn.com/images/dcbb93c1-87ca-4a9c-b5a2-f86293f88592/image.jpeg?width=1200&height=630&auto=webp&format=jpg&fit=crop&v=);
+    background-position: 0 10%;
+
 }
