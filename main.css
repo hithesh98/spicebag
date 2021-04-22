@@ -67,3 +67,7 @@ body {
     background-position: 0 10%;
 
 }
+.FooLok {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://flipdish.imgix.net/SWf5rntbeOALOzwMGSfqlWBvQ.jpg?w=1080&h=720);
+    background-position: 0 10%;
+}
